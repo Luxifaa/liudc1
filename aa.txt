@@ -1,5 +1,9 @@
-Hello,I'm Candice.
+Hello,I'm Candice.Nice to meet you.
 This is my first git.
 And this is branch master.
 
 I want to change1.
+
+this is change2.
+
+
